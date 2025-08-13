@@ -2,6 +2,12 @@
 
 Sistema simples de cadastro, listagem, busca, atualização e remoção de empresas via console.
 
+## Requisitos
+- herança
+- polimorfismo
+- encapsulamento
+- abstração
+
 ## Como executar
 
 Pré-requisitos: Java 11+ e Maven
@@ -16,5 +22,3 @@ mvn exec:java
 - src/main/java/com/companies/Main.java
 - src/main/java/com/companies/model/Company.java
 - src/main/java/com/companies/service/CompanyManager.java
-
-Pronto para uso e estudo.
