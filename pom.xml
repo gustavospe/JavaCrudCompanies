@@ -5,15 +5,13 @@
          http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     
-    <!-- Updated groupId and artifactId to English names -->
     <groupId>com.companies</groupId>
     <artifactId>crud-companies</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
     
-    <!-- Updated project name and description to English -->
     <name>CRUD Companies</name>
-    <description>CRUD system for company management demonstrating OOP concepts</description>
+    <description>CRUD BAGUAL</description>
     
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
@@ -38,7 +36,7 @@
                 <artifactId>exec-maven-plugin</artifactId>
                 <version>3.1.0</version>
                 <configuration>
-                    <!-- Updated main class path to English package structure -->
+
                     <mainClass>com.companies.Main</mainClass>
                 </configuration>
             </plugin>
